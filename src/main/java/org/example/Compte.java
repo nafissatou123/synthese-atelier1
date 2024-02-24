@@ -13,6 +13,7 @@ public class Compte {
     private int code;
     private double solde ;
 
+    //pour ignoré la date pendant l'affichage
     @XmlTransient
     private Date datemontant ;
 
