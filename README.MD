@@ -33,3 +33,17 @@
 <h3>Question 5</h3>
 <p>Créer un client SOAP JAVA </p>
 <img src="Captures/capture8.jpg" alt=""><br><br>
+
+<h3>Question 6</h3>
+<p>Créer un client SOAP PHP : IDE utilisé : Netbeans </p>
+<img src="Captures/capture9.jpg" alt=""><br>
+<p>Tester le client SOAP PHP:</p>
+<ul><li> Tester le conversion d'euro en dh
+<img src="Captures/capture10.jpg" alt=""></li>
+<li> Tester l'affichage des différents comptes : code et solde
+<img src="Captures/capture11.jpg" alt=""></li>
+</ul><br><br>
+
+<h3>FIN</h3>
+
+
